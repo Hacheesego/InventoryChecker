@@ -1,0 +1,8 @@
+inventory_app/
+│
+├── main.py                 # Your Streamlit entry point
+├── db.py                   # Handles database connection
+├── login.py                # Handles login/logout
+├── dashboard.py            # Handles admin UI
+├── utils.py                # Any helpers (e.g., PDF export)
+└── assets/                 # (Optional) For custom icons, styles, etc.
